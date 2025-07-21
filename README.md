@@ -17,12 +17,15 @@ Responsive Design – Works smoothly on mobile, tablet, and desktop devices.
 Stylish UI – Google Fonts, modern color schemes, and clean layout.
 
 
+---
+
+
 🛠️ Built With
 HTML5
 
 CSS3
 
-JavaScript (Vanilla)
+JavaScript
 
 Google Fonts
 
