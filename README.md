@@ -29,6 +29,8 @@ JavaScript
 
 Google Fonts
 
+---
+
 Responsive Grid Layout
 
 🎯 Use Cases
