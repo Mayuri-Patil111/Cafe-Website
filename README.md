@@ -1,6 +1,8 @@
 ☕ CozyBeans Cafe - Responsive Website
 Welcome to CozyBeans Cafe, a fully responsive and visually engaging cafe website built using HTML, CSS, and JavaScript. This project offers a user-friendly interface with essential features such as an interactive menu, online order form, smooth navigation, and contact details — perfect for cafes or coffee shops looking to enhance their online presence.
 
+---
+
 🌐 Website Features
 Sticky Navigation Bar – Quickly access Home, Menu, Order, and Contact sections.
 
